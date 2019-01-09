@@ -4,8 +4,7 @@ rm(list=ls())
 ## tidyverse and ggplot
 library(tidyverse)
 library(idbr)
-idb_api_key('insert your api key from the database')
-#library(plotly)
+idb_api_key('insert your api key from the database when you registered')
 ssr_df <- idb5(c("Spain", "France", "Germany", "Italy", "Portugal", "Greece"), 1990:2016, 
                variables = "E0", country_name = TRUE)
 head(ssr_df)
