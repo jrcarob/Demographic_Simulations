@@ -12,6 +12,8 @@ The script shows the following chart, where we can see both life expectancy at b
 
 Actually, Spain is in 2nd place worlwide in life expectation (Japan in the first one), with a female rate of 85.7 years and a male rate 80.3; averaged 82.83; however is expected that for 2040 Spain will overtake Japan as the country with longest life expectation.
 
-But stepping back to the title of the post it would be interesting to compare some european countries. In the script 'lifexp.R' we tried such comparison and here we have the results
+But stepping back to the title of the post it would be interesting to compare some european countries. In the script 'lifexp.R' we tried such comparison (remind that data are from 2016) and here we have the results:
 
 ![countries](https://user-images.githubusercontent.com/45860181/50896452-51bb4780-1409-11e9-87f2-e151ef213b53.png)
+
+Where we can see that Italy has the longest life expectation followed, closely, by France and Spain.
