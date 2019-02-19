@@ -4,7 +4,7 @@ As my first github repository, it will contain (at least is my intention) files 
 
 Why such title? It may be a bit cocky or too arrogant but it wasn't my intention. I used the sentence of a famous mid-80's movie called [Highlander](https://www.imdb.com/title/tt0091203/?ref_=fn_al_tt_1). Assuming all the readers of the post have been watch it (or at least heard about it), I will resume the plot in a sentence: an old race of people endowed with the gift of immortality are condemned to seek and face each other until only one is left. In the case of life expectation, it looks like as if in the future we could reach a hundred years of life (I hope not).
 
-To check it out, the first attempt is the script 'eoper.R', a simple R script to simulate the spanish life expectancy at birth from 1908 to 2016 with data from the human mortality database and the very appreciated collaboration of http://jdieramon.github.io 
+To check it out, the first attempt is the script 'eoper.R', a simple R script to simulate the spanish life expectancy at birth from 1908 to 2016 with data from the human mortality database and the very appreciated collaboration of [jdieramon](http://jdieramon.github.io). 
 
 The script shows the following chart, where we can see both life expectancy at birth for men and women since 1908. 
 
