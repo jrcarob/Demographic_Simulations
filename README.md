@@ -17,3 +17,7 @@ But stepping back to the title of the post it would be interesting to compare so
 ![countries](https://user-images.githubusercontent.com/45860181/50896452-51bb4780-1409-11e9-87f2-e151ef213b53.png)
 
 Where we can see that Italy has the longest life expectation followed, closely, by France and Spain.
+
+# Life Expectation Evolution by Continents with Gapminder data and `ggeconodist`
+
+
