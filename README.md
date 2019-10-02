@@ -20,4 +20,4 @@ Where we can see that Italy has the longest life expectation followed, closely, 
 
 # Life Expectation Evolution by Continents with Gapminder data and `ggeconodist`
 
-![cont_life_exp]()
+![cont_life_exp](https://user-images.githubusercontent.com/45860181/66061634-20a71800-e540-11e9-80df-e7356016a842.png)
